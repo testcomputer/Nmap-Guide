@@ -1,0 +1,1 @@
+nmap -sV --script=vulscan/vulscan.nse www.example.com
