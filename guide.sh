@@ -1,3 +1,27 @@
+
+echo"Hello all! Welcome to Nmap Guide. Aiming on adding & building this document into a public source of information for 45.33.49.119."
+
+echo"Now let's get started."
+
+
+
+
+
+                                                                                       *https://dns-lookup.com/nmap.org/*
+                                                                                       *https://www.ip-lookup.org/dns-lookup/45.33.49.119*
+                                                                                                                         
+
+
+
+
+
+
+
+
+
+
+
+
 $ curl cheat.sh/
 nmap
  cheat.sheets:nmap 
