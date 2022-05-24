@@ -11,25 +11,43 @@ echo"Now let's get started."
                                                                                        *https://www.ip-lookup.org/dns-lookup/45.33.49.119*
                                                                                                                          
 
+cheat.sh
+ 
+---
+tags: [ networking ]
+---
 
-
-
-
-
-
-
-
-
-
-
-$ curl cheat.sh/
-nmap
- cheat.sheets:nmap 
 # Single target scan:
 nmap [target]
 
 # Scan from a list of targets:
 nmap -iL [list.txt]
+
+# iPv6:
+nmap -6 [target]
+
+# OS detection:
+nmap -O --osscan_guess [target]
+
+# Save output to text file:
+nmap -oN [output.txt] [target]
+
+# Save output to xml file:
+nmap -oX [output.xml] [target]
+
+# Scan a specific port:
+nmap -source-port [port] [target]
+
+# Speedup your scan:
+# -n => disable ReverseDNS
+# --min-rate=X => min X packets / sec
+nmap -T5 --min-parallelism=50 -n --min-rate=300 [target]
+
+
+$ curl cheat.sh/
+nmap
+ cheat.sheets:nmap 
+
 
 # Scan port for all available A records
 # (useful when multiple A records are returned by the DNS server)
@@ -38,9 +56,6 @@ nmap --script resolveall \
 
 # iPv6:
 nmap -6 [target]
-
-# OS detection:
-nmap -O --osscan_guess [target]
 
 # Save output to text file:
 nmap -oN [output.txt] [target]
@@ -106,38 +121,6 @@ nmap -d ...
 # Discover DHCP information on an interface
 nmap --script broadcast-dhcp-discover -e eth0
 
- cheat:nmap 
----
-tags: [ networking ]
----
-# Single target scan:
-nmap [target]
-
-# Scan from a list of targets:
-nmap -iL [list.txt]
-
-# iPv6:
-nmap -6 [target]
-
-# OS detection:
-nmap -O --osscan_guess [target]
-
-# Save output to text file:
-nmap -oN [output.txt] [target]
-
-# Save output to xml file:
-nmap -oX [output.xml] [target]
-
-# Scan a specific port:
-nmap -source-port [port] [target]
-
-# Do an aggressive scan:
-nmap -A [target]
-
-# Speedup your scan:
-# -n => disable ReverseDNS
-# --min-rate=X => min X packets / sec
-nmap -T5 --min-parallelism=50 -n --min-rate=300 [target]
 
 # Traceroute:
 nmap -traceroute [target]
