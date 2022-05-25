@@ -88,7 +88,25 @@ and monitoring server or service availability.
 
 
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+## Installation of Nmap
+
+Nmap has great support for different environments.
+
+Windows: Install from the official site http://nmap.org For Windows, both GUI and command line options are available. The GUI option for Nmap is Zenmap.
+
+Linux (Ubuntu and Debian): Fire the command in the Linux terminal: apt-get install nmap
+
+In the below image, I have already installed Nmap.
+
+
+
+![image](https://user-images.githubusercontent.com/104815254/170257189-07659ac4-278d-4440-b0f7-f97dfbf1f0b4.png)
+
+
+
+
+
+
 
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
