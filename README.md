@@ -241,9 +241,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Your Name -  - John Smithh
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/testcomputer/Nmap-Guide](https://github.com/testcomputer/Nmap-Guide)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -282,3 +282,13 @@ Use this space to list resources you find helpful and would like to give credit 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
+- [Machine Learning for Beginners](https://aka.ms/ml-beginners)
+- [IoT for Beginners](https://aka.ms/iot-beginners)
+- [Data Science for Beginners](https://aka.ms/datascience-beginners)
+- [AI for Beginners](https://aka.ms/ai-beginners)
+
+
+
+
+
+
