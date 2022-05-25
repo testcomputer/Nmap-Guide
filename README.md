@@ -6,25 +6,16 @@ More in-depth guide to the utility of Nmap
  <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://bestanimations.com/Computers/funny-computer-animated-gif-35.gif">
  
  
+ 
  <div id="top"></div>
 <!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
+*** Editor's notes:
+Describe
+Give examples
+Display screen shots
+
 -->
 
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
 
 
 
@@ -45,6 +36,8 @@ More in-depth guide to the utility of Nmap
  
  </div>
  
+
+
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -75,9 +68,25 @@ More in-depth guide to the utility of Nmap
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## So what is Nmap ? ?
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![image](https://user-images.githubusercontent.com/104815254/170253876-10fbb2e0-2dc3-4fbb-86dc-5c4130fa0647.png)
+
+
+
+
+
+Nmap (Network Mapper) is an open source tool for network discovery and security testing, originally published by Gordon "Fyodor" Lyon. 
+The official website is (http://nmap.org). Nmap is a free and open source (licensed) utility for network discovery and security testing. 
+Many network and system administrators also find it useful for tasks such as inventorying the network, managing service upgrade schedules, 
+and monitoring server or service availability. 
+ Nmap uses raw IP packets in new ways to identify which servers are available on the network, what services (application names and versions) 
+ these servers provide, the operating system (and OS version) they provide. operating system) they are running, the type of packet 
+ filter/firewall used, and dozens of other features. It is designed for fast scanning of large networks, but works well on single servers. 
+ Nmap runs on all major computer operating systems, and official binaries are available for Linux, Windows, and Mac OS X.
+
+
+
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
