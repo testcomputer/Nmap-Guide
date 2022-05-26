@@ -2,6 +2,12 @@
 More in-depth guide to the utility of Nmap
 <!-- This is how you write notes in secret -->
 
+
+
+
+
+
+
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://bestanimations.com/Computers/funny-computer-animated-gif-35.gif">
  
  
@@ -67,7 +73,7 @@ Display screen shots
 
 
 <!-- ABOUT THE PROJECT -->
-## So what is Nmap ? ?
+# So what is Nmap ? ?
 
 ![image](https://user-images.githubusercontent.com/104815254/170253876-10fbb2e0-2dc3-4fbb-86dc-5c4130fa0647.png)
 
@@ -87,7 +93,7 @@ and monitoring server or service availability.
 
 
 
-## Installation of Nmap
+# Installation of Nmap
 
 Nmap has great support for different environments.
 
@@ -120,7 +126,7 @@ Use the `BLANK_README.md` to get started.
 
 
 
-### Built With
+# Built With
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
