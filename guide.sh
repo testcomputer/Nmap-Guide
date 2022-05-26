@@ -1,7 +1,8 @@
+# How to create secrets notes in a .sh file
 
-echo"Hello all! Welcome to Nmap Guide. Aiming on adding & building this document into a public source of information for 45.33.49.119."
+echo "Hello all! Welcome to Nmap Guide. Aiming on adding & building this document into a public source of information for 45.33.49.119."
 
-echo"Now let's get started."
+echo "Now let's get started."
 
 
 
