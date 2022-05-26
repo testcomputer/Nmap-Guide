@@ -2,16 +2,17 @@
 More in-depth guide to the utility of Nmap
 <!-- This is how you write notes in secret -->
 
+Practicing pull requests in GitHub Desktop & Atom with accessing GitHub.com
 
 
-
+##            ##                ##               $$
 
 
 
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://bestanimations.com/Computers/funny-computer-animated-gif-35.gif">
- 
- 
- 
+
+
+
  <div id="top"></div>
 <!--
 *** Editor's notes:
@@ -38,9 +39,9 @@ Display screen shots
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
- 
+
  </div>
- 
+
 
 
 
@@ -81,13 +82,13 @@ Display screen shots
 
 
 
-Nmap (Network Mapper) is an open source tool for network discovery and security testing, originally published by Gordon "Fyodor" Lyon. 
-The official website is (http://nmap.org). Nmap is a free and open source (licensed) utility for network discovery and security testing. 
-Many network and system administrators also find it useful for tasks such as inventorying the network, managing service upgrade schedules, 
-and monitoring server or service availability. 
- Nmap uses raw IP packets in new ways to identify which servers are available on the network, what services (application names and versions) 
- these servers provide, the operating system (and OS version) they provide. operating system) they are running, the type of packet 
- filter/firewall used, and dozens of other features. It is designed for fast scanning of large networks, but works well on single servers. 
+Nmap (Network Mapper) is an open source tool for network discovery and security testing, originally published by Gordon "Fyodor" Lyon.
+The official website is (http://nmap.org). Nmap is a free and open source (licensed) utility for network discovery and security testing.
+Many network and system administrators also find it useful for tasks such as inventorying the network, managing service upgrade schedules,
+and monitoring server or service availability.
+ Nmap uses raw IP packets in new ways to identify which servers are available on the network, what services (application names and versions)
+ these servers provide, the operating system (and OS version) they provide. operating system) they are running, the type of packet
+ filter/firewall used, and dozens of other features. It is designed for fast scanning of large networks, but works well on single servers.
  Nmap runs on all major computer operating systems, and official binaries are available for Linux, Windows, and Mac OS X.
 
 
@@ -286,8 +287,8 @@ Use this space to list resources you find helpful and would like to give credit 
 
 
 
- 
- 
+
+
  ## Contribution Guidelines
 Thank you for your interest in contributing!
 
@@ -302,7 +303,3 @@ Please ensure your pull request adheres to the following guidelines:
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.
 - When you issue a pull request, you agree that your contribution is in the public domain (guided by the CC0 license).
- 
- 
- 
-
