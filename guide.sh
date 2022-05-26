@@ -10,10 +10,42 @@ echo "Now let's get started."
 
                                                                                        *https://dns-lookup.com/nmap.org/*
                                                                                        *https://www.ip-lookup.org/dns-lookup/45.33.49.119*
-                                                                                                                         
+
+
+                       For Red Hat and Fedora based systems: yum install nmap
+
+                         For Gentoo Linux based systems: emerge nmap
+
+                Here, I will show everything in the Linux terminal.
+
+
+
+
+       Nmap scripting engine
+           The Nmap Scripting Engine (NSE) is one of Nmap’s most powerful and flexible features. It allows users to write (and share) simple scripts to
+        automate a wide variety of networking tasks.
+                Basically these scripts are written in Lua programming language. Generally Nmap’s script engine does lots of things, some of them are below:
+ $$Network discovery
+     This is Nmap’s bread and butter. Examples include looking up WhoIs data based on the target domain, querying ARIN, RIPE, or APNIC for the target IP to determine ownership,
+          performing identd lookups on open ports, SNMP queries, and listing available NFS/SMB/RPC shares and services.
+
+            $$   Vulnerability detection
+                                   When a new vulnerability is discovered, you often want to scan your networks quickly to identify vulnerable systems before the bad guys do.
+           While Nmap isn’t a comprehensive vulnerability scanner, NSE is powerful enough to handle even demanding vulnerability checks. Many vulnerability
+                                    detection scripts are already available,
+               and they plan to distribute more as they are written.
+
+              $$ Backdoor detection
+               Many attackers and some automated worms leave backdoors to enable later reentry. Some of these can
+               be detected by Nmap’s regular expression-based version detection.
+
+
+
+
+
 
 cheat.sh
- 
+
 ---
 tags: [ networking ]
 ---
@@ -47,7 +79,7 @@ nmap -T5 --min-parallelism=50 -n --min-rate=300 [target]
 
 $ curl cheat.sh/
 nmap
- cheat.sheets:nmap 
+ cheat.sheets:nmap
 
 
 # Scan port for all available A records
@@ -202,7 +234,7 @@ The most common Nmap scripting engine categories:
 - version: Measure the version of software or protocols on the target hosts.
 - vul: Measure whether target systems have a known vulnerability.
 
- tldr:nmap 
+ tldr:nmap
 # nmap
 # Network exploration tool and security / port scanner.
 # Some features only activate when Nmap is run with privileges.
