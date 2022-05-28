@@ -117,7 +117,7 @@ once we’ve dialed in on some of the basics.
 As always during reconnaissance, scanning is the initial stage for information gathering.
 
 
-## What is reconnaissance?
+# What is reconnaissance?
 
 Reconnaissance is to collect as much as information about a target network as possible.From a hacker’s 
 perspective, the information gathered is very helpful to make an attack, so to block that type of malicious 
