@@ -1,25 +1,22 @@
-[![Build Status](https://travis-ci.org/nmap/nmap.svg?branch=master)]
-
-
-
-
-
-<h1 align="center"> # Nmap-Guide
- </h1>
-<h1 align="center"> More in-depth guide to the utility of Nmap
+[![Build Status](https://travis-ci.org/nmap/nmap.svg?branch=master)](https://travis-ci.org/nmap/nmap) 
+[![Language grade: C/C++](https://img.shields.io/lgtm/grade/cpp/g/nmap/nmap.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/nmap/nmap/context:cpp) [![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/nmap/nmap.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/nmap/nmap/context:python) 
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/nmap/nmap.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/nmap/nmap/alerts/)
 
 <!-- This is how you write notes in secret  
 Practicing pull requests in GitHub Desktop & Atom.io while accessing https://GitHub.com <!-- -->
 
 
- 
- 
- 
- 
- 
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://bestanimations.com/Computers/funny-computer-animated-gif-35.gif">
 
- <div id="top"></div>
+
+<h1 align="center"> Nmap-Guide 
+ </h1>
+ <h1 align="center">
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://bestanimations.com/Computers/funny-computer-animated-gif-35.gif"> </h1>
+ <div id="top">
+ </div>  
+ More in-depth guide to the utility of Nmap 
+ </h1>
+ 
  
 <!--
 *** Editor's notes:
