@@ -83,6 +83,13 @@ Nmap has great support for different environments.
 
 Windows: Install from the official site http://nmap.org For Windows, both GUI and command line options are available. The GUI option for Nmap is Zenmap.
 
+
+<h1 align="center"> 
+ 
+ ![zenmap-no-648x700](https://user-images.githubusercontent.com/104815254/170836911-da6d354b-f1a6-4f86-9baa-ea67ec3e1d06.png)
+ ![zenmap-profeditor-534x527](https://user-images.githubusercontent.com/104815254/170836916-015dc34a-3833-4aa5-8542-75ffed3d62dc.png)
+ </h1>
+
 Linux (Ubuntu and Debian): Fire the command in the Linux terminal: apt-get install nmap
 
 In the below image, I have already installed Nmap.
@@ -108,6 +115,7 @@ once we’ve dialed in on some of the basics.
 
 
 As always during reconnaissance, scanning is the initial stage for information gathering.
+
 
 ## What is reconnaissance?
 
