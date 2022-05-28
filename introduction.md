@@ -3,6 +3,10 @@ Nmap is an open source port scanning tool that was first published in September 
 posted in an article in Phrack Magazine, and it was further developed by the community. The latest release,
 as of this post date, is Nmap 7.92, released in August 2021.
 
+
+
+Nmap has a lot of features, but getting started is as easy as running nmap scanme.nmap.org
+
 Nmap is the cornerstone of the recon phase for network 
 security testing, and for good reason, it comes with a
 library of Lua scripts that add a lot of utility. There 
@@ -53,7 +57,13 @@ well-known ports which range from 0 to 1023. Here are some examples:
   </li><li>port 80 (HTTP)
   </li><li>port 443 (HTTPS)
   </li></ul>
-  
-  
-  
+
+
+
+There are two standard protocols used in port communication, those are:
+
+### Transmission Control Protocol (TCP)
+### User Datagram Protocol (UDP)
+
+
   
