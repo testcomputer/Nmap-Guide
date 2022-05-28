@@ -85,7 +85,9 @@ Windows: Install from the official site http://nmap.org For Windows, both GUI an
 
 
 <h1 align="center"> 
+ New version vs old
  
+ ![image](https://user-images.githubusercontent.com/104815254/170837666-ddcb2747-e251-4ad5-8ca5-f6b13f5495bb.png)
  ![zenmap-no-648x700](https://user-images.githubusercontent.com/104815254/170836911-da6d354b-f1a6-4f86-9baa-ea67ec3e1d06.png)
  ![zenmap-profeditor-534x527](https://user-images.githubusercontent.com/104815254/170836916-015dc34a-3833-4aa5-8542-75ffed3d62dc.png)
  </h1>
@@ -95,6 +97,7 @@ Linux (Ubuntu and Debian): Fire the command in the Linux terminal: apt-get insta
 In the below image, I have already installed Nmap.
 
 
+![Kali Linux (Correct)  Running  - Oracle VM VirtualBox 5_28_2022 12_08_00 PM](https://user-images.githubusercontent.com/104815254/170837921-ab4e84b7-29f2-4f67-b17f-418ee6285d82.png)
 
 ![image](https://user-images.githubusercontent.com/104815254/170257189-07659ac4-278d-4440-b0f7-f97dfbf1f0b4.png)
 
