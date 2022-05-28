@@ -158,21 +158,21 @@ Use the `BLANK_README.md` to get started.
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [Kali.js](https://kali.org/)
-* [Nmap.js](https://nmap.org/)
-* [Microsoft](https://microsoft.com/)
-* [Java](https://java.com/en/)
-* [Atom](https://atom.io/)
+* [Kali.](https://kali.org/)
+* [Nmap.](https://nmap.org/)
+* [Microsoft.](https://microsoft.com/)
+* [Java.](https://java.com/en/)
+* [Atom.](https://atom.io/)
 * [______](https://)
-* [Bootstrap](https://getbootstrap)
-* [JQuery](https://jquery.com)
-* [Azure Portal]
-* [Google Cloud Platform]
-* [Amazon Web Services]
+* [Bootstrap.](https://getbootstrap)
+* [JQuery.](https://jquery.com)
+* [Azure Portal.]
+* [Google Cloud Platform.]
+* [Amazon Web Services.]
 
 Equipment Powered
 
-* CPU [AMD Ryzen 9](https://amd.com) (OC 5%)
+* CPU [[AMD Ryzen 9](https://amd.com) (OC 5%)]
 * GPU [RTX 3060 (OC 22%)]
 * RAM [16gb (Expandable to 40gb)]
 * OS [Windows 11 / Linux Kali]
