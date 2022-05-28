@@ -2,12 +2,10 @@
 More in-depth guide to the utility of Nmap
 <!-- This is how you write notes in secret -->
 
-Practicing pull requests in GitHub Desktop & Atom with accessing GitHub.com
+Practicing pull requests in GitHub Desktop & Atom.io while accessing https://GitHub.com <!-- -->
 
 
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://bestanimations.com/Computers/funny-computer-animated-gif-35.gif">
-
-
 
  <div id="top"></div>
  
@@ -18,17 +16,6 @@ Practicing pull requests in GitHub Desktop & Atom with accessing GitHub.com
 #### Display screen shots
 
 -->
-
-
-
-
-![Contributors][contributors-shield]
-![Forks][forks-shield]
-![Stargazers][stars-shield]
-![Issues][issues-shield]
-
-
-
 
  </div>
 
