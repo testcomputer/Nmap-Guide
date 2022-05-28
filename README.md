@@ -162,6 +162,16 @@ well-known ports which range from 0 to 1023. Here are some examples:
 
 
 
+
+    Port scanning is the enumeration of ports on a target host or network. 
+    The port scanning tool will generate a packet, send it to the target host, 
+    and log the ports that it gets a reply from. In the simplest terms possible.
+
+
+
+
+
+
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
 * You shouldn't be doing the same tasks over and over like creating a README from scratch
