@@ -173,7 +173,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 Equipment Powered
 
 * CPU [[AMD Ryzen 9](https://amd.com) (OC 5%)]
-* GPU [RTX 3060 (OC 22%)]
+* GPU [[RTX 3060](https://nvidia.com) (OC 22%)]
 * RAM [16gb (Expandable to 40gb)]
 * OS [Windows 11 / Linux Kali]
 * VM [Oracle VM VirtualBox; Kali Linux & Parrot]
@@ -335,8 +335,9 @@ Thank you for your interest in contributing!
 
 Please ensure your pull request adheres to the following guidelines:
 
+
 - The purpose of this list is to increase the knowledge of testers and to discover new tools to help you on the way.
-- This QA and Testing road map includes the most important skills and knowledge that you require to start a career with. NOT EVERY THING!
+- This QA and Testing road map includes the most important skills and knowledge that you require to start a career with.
 - You can use issues for requests/ improvements
 - Feel free to provide a translated versions.
 - Keep descriptions short and simple, but descriptive.
