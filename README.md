@@ -1,10 +1,16 @@
-# Nmap-Guide
-More in-depth guide to the utility of Nmap
-<!-- This is how you write notes in secret -->
+<h1 align="center"> # Nmap-Guide
+ </h1>
+<h1 align="center"> More in-depth guide to the utility of Nmap
 
+<!-- This is how you write notes in secret  
 Practicing pull requests in GitHub Desktop & Atom.io while accessing https://GitHub.com <!-- -->
 
 
+ 
+ 
+ 
+ 
+ 
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://bestanimations.com/Computers/funny-computer-animated-gif-35.gif">
 
  <div id="top"></div>
@@ -44,6 +50,9 @@ Practicing pull requests in GitHub Desktop & Atom.io while accessing https://Git
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
+
+</h1>
+
 
 
 <!-- ABOUT THE PROJECT -->
