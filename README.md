@@ -5,20 +5,17 @@ More in-depth guide to the utility of Nmap
 Practicing pull requests in GitHub Desktop & Atom with accessing GitHub.com
 
 
-##            ##                ##               $$
-
-
-
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://bestanimations.com/Computers/funny-computer-animated-gif-35.gif">
 
 
 
  <div id="top"></div>
+ 
 <!--
 *** Editor's notes:
-Describe
-Give examples
-Display screen shots
+## Describe
+### Give examples
+#### Display screen shots
 
 -->
 
@@ -32,18 +29,8 @@ Display screen shots
 
 
 
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
 
  </div>
-
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -74,13 +61,14 @@ Display screen shots
 
 
 <!-- ABOUT THE PROJECT -->
-# So what is Nmap ? ?
+<h1 align="center">
+# So What Is Nmap ? ?
+
+</h1>
+
+<!-- PROJECT LOGO -->
 
 ![image](https://user-images.githubusercontent.com/104815254/170253876-10fbb2e0-2dc3-4fbb-86dc-5c4130fa0647.png)
-
-
-
-
 
 Nmap (Network Mapper) is an open source tool for network discovery and security testing, originally published by Gordon "Fyodor" Lyon.
 The official website is (http://nmap.org). Nmap is a free and open source (licensed) utility for network discovery and security testing.
@@ -92,10 +80,9 @@ and monitoring server or service availability.
  Nmap runs on all major computer operating systems, and official binaries are available for Linux, Windows, and Mac OS X.
 
 
-
-
-# Installation of Nmap
-
+<h1 align="center"> # Installation of Nmap
+</h1>
+ 
 Nmap has great support for different environments.
 
 Windows: Install from the official site http://nmap.org For Windows, both GUI and command line options are available. The GUI option for Nmap is Zenmap.
