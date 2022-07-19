@@ -76,7 +76,7 @@ and monitoring server or service availability.
  Nmap runs on all major computer operating systems, and official binaries are available for Linux, Windows, and Mac OS X.
 
 
-<h1 align="center"> # Installation of Nmap
+<h1 align="center"> Installation of Nmap
 </h1>
  
 Nmap has great support for different environments.
